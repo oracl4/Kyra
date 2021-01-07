@@ -20,5 +20,7 @@ $ python main_web.py
 ```
 
 > Configure the RTSP URL to match your IP Camera.
+
 > Place the face dataset inside dataset/Faces/ folder and call the fr_encode function in the FaceRecog API to encode the faces and train the classifier.
+
 > To run testing place the testing dataset in dataset/Testing/ folder and run each script in Research folder to test each function.
